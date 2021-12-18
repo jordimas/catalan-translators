@@ -107,7 +107,6 @@ Dawid Gan
 Diego Silva Galan
 Dirk Stöcker
 Dvd Gmz
-EdX Team
 Eduard Ereza Martínez
 Eduard Santamaria
 Eduard Selma
@@ -165,7 +164,6 @@ Guillem Servera
 Guiu Rocafort
 Gustau L. Castells (Karasu)
 Harald Servat
-Ícar N. S.
 Ícar Nin Solana
 Ian Vatega
 Innocent De Marchi
@@ -261,10 +259,8 @@ Judith Pintó Subirada
 Jürgen E. Fischer
 Kovid Goyal
 LAURA IZQUIERDO
-LXDE - Pootle
 Laia Miralles Vazquez
 Laia dg
-Launchpad Contributions:
 Laura Balbastre
 Laura Mañas
 Laura Sales
@@ -357,7 +353,6 @@ Pascual Martínez
 Pau Capdevila Pujol
 Pau Iranzo
 Pau Nin
-Pau Rul·lan Ferragut
 Pau Ruŀlan Ferragut
 Pau Sellés i Garcia
 Pau Tallada Crespí
