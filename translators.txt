@@ -2,8 +2,7 @@
 Àngel Mompó
 Adolfo Gómez
 Adolfo Jayme
-Adolfo Jayme-Barrientos 2019
-Adolfo Jayme-BarrientosXavi G
+Adolfo Jayme-Barrientos
 Adrià Vilanova Martínez
 Adrián Laviós
 Agustí Grau
@@ -20,7 +19,7 @@ Albert Lombarte
 Albert Olivé
 Albert Sanchez Lafuente
 Albert Vaca Cintora
-Albert clar
+Albert Clar
 Aleix Badia
 Aleix Llusà Serra
 Aleix Pol
@@ -79,9 +78,7 @@ Carme Cirera
 Chris Ball
 Chris Garrity (ML)
 Clara Villalba
-Claude Paroz
 Clàudia Soriano Guerrero
-Contact Chad MILLER
 Cristian Garde Zarza
 Cristóbal Urbano
 Crèdits de traducció
@@ -246,21 +243,18 @@ Jose Gordillo
 Josep Anton Rius
 Josep David Capdevila Cano
 Josep Lluís - LliureTIC
-Josep M. Ferrer
 Josep Ma. Ferrer
 Josep Maria Antolin
 Josep Monés i Teixidor
 Josep Puigdemont
 Josep Roca
 Josep Rodriguez Tolosa
-Josep Sanchez
 Josep Sànchez
 Josep Torné Llavall
 Josep Vicent Vicent Ballester
 Josep Vila (Softcatalà)
 Josep constantí mata
 José Cabrera Lozano
-Jsunground Ox
 Juanjo Bote
 Juanma Hernández
 Judith Pintó Subirada
@@ -329,7 +323,6 @@ Mike Gelfand
 Miquel Oliete
 Miquel Oliver
 Miquel Vidal
-Miquel Àngel
 Miquel-Àngel Burgos i Fradeja
 Mireia Blanc Pastor
 Mireia Calzada
@@ -341,7 +334,6 @@ Montserrat Naranjo
 Montxo Vicente i Sempere
 Muhammad Adeel Khan
 Muhammad Ayub khan
-Nada Nada
 Nathan Kinkade
 Nick Schermer
 Nuria Costa
@@ -379,7 +371,6 @@ Pilar Embid
 Piotr Szotkowski
 Pol Maresma
 Pol Ruzafa
-Pràctiques bTactic
 Quentin PAGÈS
 Queralt Iglesias
 Quico Llach
@@ -412,8 +403,6 @@ Sandra bonillo
 Santiago Lamora
 Sarina Canelake
 Sebas Vila
-Sebastia Pla Sanz
-Sebastià Pla
 Sebastià Plà i Sanz
 Sergei manolo
 Sergey Poznyakoff
@@ -422,8 +411,6 @@ Sergi Montes
 Sergi Morraja
 Sergi Muñoz
 Sergi Vazquez Maymir
-Sergio Ah
-Siegfried Gevatter
 Siegfried-Angel Gevatter Pujals
 Simon Legner
 Sinner from the Prairy
@@ -449,7 +436,6 @@ Víctor Nieto
 Waheed Ahmed
 Walter Garcia Fontes
 Xavi Armengol
-Xavi G
 Xavi Ivars
 Xavier A. Conde Rueda
 Xavier Barnada
