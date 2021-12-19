@@ -48,7 +48,6 @@ Antoni Bella
 Antonio Cuñat
 Ariadna Pascual
 Artur Vicedo
-Automatically generated
 Baltasar Ortega
 Batista10 Serveis informàtics
 Belén Cases
@@ -81,8 +80,6 @@ Clara Villalba
 Clàudia Soriano Guerrero
 Cristian Garde Zarza
 Cristóbal Urbano
-Crèdits de traducció
-Crèdits dels traductors
 César López Ramírez
 Daniel Alomar i Claramonte
 Daniel Bassa Perez
@@ -225,7 +222,7 @@ Jordi Ill
 Jordi Irazuzta Cardús
 Jordi Ivars
 Jordi Mallach
-Jordi Mas
+Jordi Mas i Hernàndez
 Jordi Negrevernis i Font
 Jordi Sagues
 Jordi Sanfeliu
